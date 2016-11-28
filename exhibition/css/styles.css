@@ -1,15 +1,15 @@
 		* { margin: 0px; padding: 0px; }
 
 		#container {
-			width: 150vw; /* vw means viewport width */
-			height: 100vh; /* vh means viewport height 100vh = 1 window height */
+			width: 600vw; /* vw means viewport width */
+			height: 200vh; /* vh means viewport height 100vh = 1 window height */
 			overflow-y: hidden;
 			overflow-x: scroll;
 		}
 
 		.column {
 			width: 50vw;
-			height: 100vh;
+			height: 200vh;
 			float: left;
 			overflow-y: scroll;
 
@@ -41,14 +41,128 @@
 			background: -webkit-linear-gradient(top, rgba(0,100,0,0.65) 0%,rgba(0,0,0,0) 100%);
 	
 		}
+		.inner-6 {
+				height: 300vh;
+			background: -webkit-linear-gradient(top, rgba(0,100,0,0.65) 0%,rgba(0,0,0,0) 100%);
+	
+		}
+			.inner-7 {
+				height: 300vh;
+			background: white;
+	
+		}
+			.inner-8 {
+				height: 300vh;
+			background: white;
+		}
+				.inner-9 {
+				height: 500vh;
+			background: white;
+	
+		}
+					.inner-10 {
+				height: 500vh;
+			background: white;
+		}
+					.inner-11 {
+				height: 500vh;
+			background: white;
+	
+		}
+
+					.inner-12 {
+				height: 50vh;
+			background: white;
+		}
 
 		.cover {
 			height: 100vh;
-			background: purple;
+			background: white;
 		}	
 
 		.cover1 {		
 			height: 100vh;
-			background: black;
-		}	
+			background: white;
+			outline-color: black;
+			outline-width: 20px;
+			outline-style: solid;
+			width: 90vh;
+		
 		}
+
+
+
+		#text {
+			font-family: Avenir Next;
+			font-weight: bolder;
+			margin-left: 100px;
+
+		}
+
+#image {
+			margin-left: 125px;
+		}
+
+#image1 {
+	margin-left: 10px;
+}
+
+#image2 {
+	margin-left: 400px;
+
+}
+#text1 {
+	font-family: Avenir;
+	font-size: 10pt;
+	width: 450px;
+	height: 500px;
+	margin-left: 100px;
+
+}
+#ion1{
+	margin-top: 100px;
+
+}
+
+#ion2 {
+}
+
+#ion3 {
+	margin-left: 100px;
+}
+
+#ion4 {
+
+}
+
+#thief1{
+	margin-top: 50px;
+	margin-left: 200px;
+
+}
+
+#thief3 {
+	margin-left: 100px;
+}
+
+#time1 {
+	margin-top: -160px;
+	margin-left: 20px;
+}
+
+#kyoko1 {
+	margin-top: -160px;
+}
+
+#full1 {
+	margin-top: 200px;
+	margin-left: 60px;
+}
+
+h1 {
+	Font-family: Avenir;
+
+}
+h2 {
+	font-family: avenir;
+}
